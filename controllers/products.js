@@ -37,12 +37,11 @@ try {
   
   if (id) {
     products = await model.findById(id);
-    res.status(200).json({ products });
+
   } else {
     products = await model.find(req.query);
-    res.status(200).json({ products });
   }
-  
+  res.status(200).json({ products });
 
 } catch (error) {
   res.status(500).json({ error: error.message });
