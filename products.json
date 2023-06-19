@@ -1,0 +1,58 @@
+[
+  {
+    "id" : 1,
+    "title": "iphone",
+    "price": 154,
+    "featured": true,
+    "brand": "apple"
+  },
+  {
+    "id" : 2,
+    "title": "iphone 10",
+    "price": 1154,
+    "featured": true,
+    "brand": "apple"
+  },
+  {
+    "id" : 3,
+    "title": "watch",
+    "price": 204,
+    "featured": false,
+    "brand": "apple"
+  },
+  {
+    "id" : 4,
+    "title": "watch 10",
+    "price": 304,
+    "featured": true,
+    "brand": "apple"
+  },
+  {
+    "id" : 5,
+    "title": "s20",
+    "price": 404,
+    "featured": false,
+    "brand": "samsung"
+  },
+  {
+    "id" : 6,
+    "title": "s21",
+    "price": 505,
+    "featured": false,
+    "brand": "samsung"
+  },
+  {
+    "id" : 7,
+    "title": "dell gaming",
+    "price": 501,
+    "featured": false,
+    "brand": "dell"
+  },
+  {
+    "id" : 8,
+    "title": "mi20",
+    "price": 701,
+    "featured": false,
+    "brand": "mi"
+  }
+]

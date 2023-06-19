@@ -1,28 +1,11 @@
-/*
 const mongoose = require("mongoose");
 
 
-const ConnectDB = (uri) => {
- console.log('database is connected');
- return  mongoose.connect(uri,{
-    useNewUrlParser:true,
-    useUnifiedTopology :true,
+const connectDB = (uri) => {
+  console.log("connect db");
+  return mongoose.connect(uri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
   });
 };
-
-module.exports= ConnectDB;
-
-*/
-
-
-const mongoose = require('mongoose');
-
-const ConnectDB = (uri) =>{
-  console.log('database is connected');
-   return mongoose.connect(uri,{
-    useNewUrlParser:true,
-    useUnifiedTopology :true,
-   });
-}
-
-module.exports = ConnectDB;
+module.exports = connectDB;
