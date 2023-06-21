@@ -42,21 +42,37 @@ const productSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  images: {
+    type: Object,
+    required: true,
+  },
+  category:{
+    type: String,
+    required : true,
+  },
+  brand:{
+    type : String,
+    required : true,
+  },
   price: {
     type: Number,
     required: true,
   },
-  featured: {
-    type : Boolean,
-    default : false,
+  discountprice: {
+    type: Number,
+    required : false,
   },
   rating: {
     type : Number,
-    default : 4.9,
-  },
-  brand: {
-    type : String,
     required : true,
+  },
+  description : {
+    type : String,
+    required : false,
+  },
+  featured: {
+    type : Boolean,
+    default : false,
   },
   createdAt : {
     type : Date,

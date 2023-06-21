@@ -1,58 +1,124 @@
 [
   {
-    "id" : 1,
-    "title": "iphone",
-    "price": 154,
-    "featured": true,
-    "brand": "apple"
+   "id":1,
+   "title" : "vivo Y21T (4GB/128GB)",
+   "images":[{"url":"https://static-01.daraz.com.bd/p/734605aaf06e2185aa89007909a93604.png_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/d5d44ce57bc0340fd3a69a7e66bcb922.jpg_720x720.jpg_.webp"} ],
+   "category":"Electronics",
+   "brand" : "vivo",
+   "price": 19999,
+   "discountprice" : 18321,
+   "rating" : 40,
+   "description" : "",
+   "featured" : false
   },
   {
-    "id" : 2,
-    "title": "iphone 10",
-    "price": 1154,
-    "featured": true,
-    "brand": "apple"
-  },
-  {
-    "id" : 3,
-    "title": "watch",
-    "price": 204,
-    "featured": false,
-    "brand": "apple"
-  },
-  {
-    "id" : 4,
-    "title": "watch 10",
-    "price": 304,
-    "featured": true,
-    "brand": "apple"
-  },
-  {
-    "id" : 5,
-    "title": "s20",
-    "price": 404,
-    "featured": false,
-    "brand": "samsung"
-  },
-  {
-    "id" : 6,
-    "title": "s21",
-    "price": 505,
-    "featured": false,
-    "brand": "samsung"
-  },
-  {
-    "id" : 7,
-    "title": "dell gaming",
-    "price": 501,
-    "featured": false,
-    "brand": "dell"
-  },
-  {
-    "id" : 8,
-    "title": "mi20",
-    "price": 701,
-    "featured": false,
-    "brand": "mi"
-  }
+    "id":2,
+    "title" : "Tecno POP 6 Pro 2GB/32GB Mobile Phone Smartphone",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/f49f4988571b564b4efdff2af207a126.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/f49f4988571b564b4efdff2af207a126.jpg_720x720.jpg_.webp"} ],
+    "category":"Electronics",
+    "brand" : "Tecno",
+    "price": 10490,
+    "discountprice" : 9490,
+    "rating" : 5,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":3,
+    "title" : "Samsung Galaxy F23 5G-6GB/128GB smartphone",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/f4ae82a807e6e5129a8fc0e074138b36.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/f4ae82a807e6e5129a8fc0e074138b36.jpg_720x720.jpg_.webp"} ],
+    "category":"Electronics",
+    "brand" : "SAMSUNG",
+    "price": 33657,
+    "discountprice" : 32657,
+    "rating" : 25,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":4,
+    "title" : "Logitech M235 Blue Wireless Mouse",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/df41e25b14f47a199d15280f44abb8e8.png_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/9871b2b4dfb0a7e3521d5d42e2a9ffbc.png_720x720.jpg_.webp"} ],
+    "category":"Electronics",
+    "brand" : "Logitech",
+    "price":1800 ,
+    "discountprice" : 1570,
+    "rating" : 52,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":5,
+    "title" : "PNY GeForce RTX 3050 8GB UPRISING Dual Fan GDDR6 Graphics Card",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/e1e7fc622dc0cf18fe9eff898d5b5d83.png_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/d9acee4ade5a31cfd5f9d9d068fb07ef.png_720x720.jpg_.webp"},{"url" : "https://static-01.daraz.com.bd/p/1320cf3a031bb80cf0bb2a848d1dd2fd.png_720x720.jpg_.webp"} ],
+    "category":"Electronics",
+    "brand" : "PNY",
+    "price": 43000,
+    "discountprice" :34900 ,
+    "rating" : 59,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":6,
+    "title" : "Amloki powder-100gm/Amloki gura",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/ee7d63a508e661182c48dd6807524a1c.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/ab710e02bff4464ec438aed070c73f30.jpg_720x720.jpg_.webp"},{"url" : "https://static-01.daraz.com.bd/p/8b7ecc60a3c69245c41cf0f9a3bb8bf6.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/223775e0350de5e9f16ceaccd0899862.jpg_720x720.jpg_.webp"} ],
+    "category":"Groceries",
+    "brand" : "BONIK",
+    "price": 190,
+    "discountprice" :52,
+    "rating" : 39,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":7,
+    "title" : "Chia Seed 1Kg Brizilan Premium Seed 100% Organic",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/mdc/fcd8ccc9b712e8782605b48fb1ed9443.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/216df92f68823af1f9a73f28afc91744.jpg_720x720.jpg_.webp"}],
+    "category":"Groceries",
+    "brand" : "no brand",
+    "price": 1500,
+    "discountprice" :699,
+    "rating" : 79,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":8,
+    "title" : "Fresh Soyabean Oil - 1Ltr",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/7b681198e929fc7ef2b076a4621599c3.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/7b681198e929fc7ef2b076a4621599c3.jpg_720x720.jpg_.webp"}],
+    "category":"Groceries",
+    "brand" : "Fresh",
+    "price": 187,
+    "discountprice" :185,
+    "rating" : 55,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":9,
+    "title" : "Nestle KITKAT 2 Finger Chocolate Wafer (India), 18.5g X 30pcs",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/648ebea77cb637cd3eb9eb80bf185c4c.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/af8afa53bfd9a2e81154048208ab705d.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/b05192fa32af435a2b208acb77fce1f5.jpg_720x720.jpg_.webp"}],
+    "category":"Groceries",
+    "brand" : "Kitkat",
+    "price": 1200,
+    "discountprice" :1123,
+    "rating" : 85,
+    "description" : "",
+    "featured" : false
+   },
+   {
+    "id":10,
+    "title" : "Big Bubble Rasa All Fruits Gum- 5 Pack Combo Made In Italy",
+    "images":[{"url":"https://static-01.daraz.com.bd/p/062d58520a90086220bd4f3623fd6482.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/af8afa53bfd9a2e81154048208ab705d.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/965456a5fc9965e180d2647c62482ba9.jpg_720x720.jpg_.webp"},{"url":"https://static-01.daraz.com.bd/p/12bec7dd83451c7d3c8a6bed8b5e2d90.jpg_720x720.jpg_.webp"}],
+    "category":"Groceries",
+    "brand" : "no brand",
+    "price": 220,
+    "discountprice" :210,
+    "rating" : 65,
+    "description" : "",
+    "featured" : false
+   }
+
 ]
+ 
